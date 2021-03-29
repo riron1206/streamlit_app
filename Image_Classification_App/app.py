@@ -68,7 +68,11 @@ def main():
             st.write("Prediction (index, name)", i[0], ",   Score: ", round(i[1], 2))
     else:
         img_url = "https://github.com/riron1206/streamlit_app/blob/master/Image_Classification_App/image/dog.jpg?raw=true"
-        st.image(img_url, caption="Sample Image.", use_column_width=True)
+        st.image(
+            img_url,
+            caption="Sample Image. Please download and upload.",
+            use_column_width=True,
+        )
 
 
 if __name__ == "__main__":
