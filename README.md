@@ -1,13 +1,21 @@
-# Streamlitで書いたapp
+# Streamlitのapp
 
-### Web カメラで得た画像を Streamlit 上で表示して、学習済みの MobileNetV2(tensorflow)でリアルタイム分類
+### Web カメラで得た画像を Streamlit 上で表示して、imagenetで学習済みの MobileNetV2(tensorflow)でリアルタイム分類
 - web_cam_streamlit_tf_class.py
 
 
 
-### 画像を Streamlit 上で表示して、学習済みのresnet101(Pytorch)で分類
+---------------------------------------------------------
+
+
+
+### 画像を Streamlit 上で表示して、imagenetで学習済みのresnet101(Pytorch)で分類
 
 - Image_Classification_App
+
+
+
+---------------------------------------------------------
 
 
 
