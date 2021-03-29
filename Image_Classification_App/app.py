@@ -3,6 +3,7 @@
 https://towardsdatascience.com/create-an-image-classification-web-app-using-pytorch-and-streamlit-f043ddf00c24
 
 Usage:
+    $ conda activate lightning
     $ streamlit run ./app.py
 """
 import pandas as pd
