@@ -1,9 +1,0 @@
-streamlit
-numpy
-pandas
-pillow
-torch
-torchvision
-albumentations
-opencv-python
-opencv-contrib-python

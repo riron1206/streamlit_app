@@ -9,9 +9,9 @@
 
 
 
-### 画像を Streamlit 上で表示して、imagenetで学習済みのresnet101(Pytorch)で分類
+### 画像を Streamlit 上で表示して、imagenetの学習済みモデル(Pytorch)で分類
 
-- Image_Classification_App
+- https://github.com/riron1206/image_classification_streamlit_app
 
 
 

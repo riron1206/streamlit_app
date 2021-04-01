@@ -1,9 +1,4 @@
 streamlit
-numpy
-pandas
-pillow
-torch
-torchvision
-albumentations
+tensorflow
 opencv-python
 opencv-contrib-python
