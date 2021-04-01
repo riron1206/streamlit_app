@@ -5,7 +5,7 @@
 
   
 
-##### https://streamlit.io/sharing にアプリデプロイしてる（カメラは使えないが…）
+##### https://share.streamlit.io/riron1206/streamlit_app/web_cam_streamlit_tf_class.py にアプリデプロイしてる（カメラは使えないが…）
 - デプロイ方法参考: https://tech.ledge.co.jp/entry/2020/10/20/120000
 
 
@@ -20,12 +20,6 @@
 - https://github.com/riron1206/image_classification_streamlit_app
 
 
-
-##### https://streamlit.io/sharing にアプリデプロイしてる
-
-- デプロイ方法参考: https://tech.ledge.co.jp/entry/2020/10/20/120000
-
-  
 
 ---------------------------------------------------------
 
